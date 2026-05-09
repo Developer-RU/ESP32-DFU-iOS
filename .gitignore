@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.moved-aside
+DerivedData/
+*.xcworkspace/xcuserdata/
+build/
+*.ipa
+
+# XcodeGen
+# Keep project.yml, but do not track generated xcodeproj unless desired
+
+# CocoaPods
+Pods/
+Podfile.lock
