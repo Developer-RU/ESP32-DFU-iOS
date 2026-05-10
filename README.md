@@ -1,6 +1,5 @@
 # ESP32-DFU iOS Client
 
-[![CI](https://github.com/Developer-RU/ESP32-DFU-iOS/actions/workflows/build.yml/badge.svg)](https://github.com/Developer-RU/ESP32-DFU-iOS/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-iOS%2015%2B-blue.svg)](https://developer.apple.com/ios/)
 [![Firmware](https://img.shields.io/badge/firmware-ESP32--BLE--OTA-green)](https://github.com/Developer-RU/ESP32-BLE-OTA)
