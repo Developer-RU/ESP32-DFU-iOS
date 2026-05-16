@@ -183,4 +183,4 @@ Transfer `firmware.bin` to your iPhone via AirDrop, iCloud Drive, or USB, then s
 
 ## License
 
-[MIT](LICENSE) © 2025 Developer-RU
+[MIT](LICENSE) © 2026 Developer-RU
